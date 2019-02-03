@@ -5,6 +5,8 @@
 ## Background
 One of the greatest social and technological challenges of the modern age has been the information overload fueled by the 24 hour news cycle and social media. Multiple media outlets have published articles on President Trump and his alleged connections with Russia. We collected many of these articles and consolidated the information in one place via a mobile-optimized and interactive data visualization.
 
+Check it out at http://ygfs.pedal.tech/.
+
 ## Features
 
 - Each node in the graph corresponds to a person or organization of interest, organized by having Americans closer to the left, Russians to the right, and other people/groups in the middle.
