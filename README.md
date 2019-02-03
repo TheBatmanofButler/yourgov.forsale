@@ -1,5 +1,8 @@
 # YourGov.ForSale
 
+![ygfs screenshot](readme_images/ygfs.png)
+
+## Background
 One of the greatest social and technological challenges of the modern age has been the information overload fueled by the 24 hour news cycle and social media. Multiple media outlets have published articles on President Trump and his alleged connections with Russia. We collected many of these articles and consolidated the information in one place via a mobile-optimized and interactive data visualization.
 
 ## Features
